@@ -1,0 +1,33 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variable files
+.env
+
+# Docker files
+*.dockerignore
+
+# Pytest and coverage reports
+.coverage
+*.coveragerc
+*.hypothesis/
+
+# FastAPI-specific files
+*.sqlite
